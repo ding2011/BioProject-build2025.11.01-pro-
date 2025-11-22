@@ -61,7 +61,7 @@ RNAfold：
 🎯 快速使用
 1. 启动软件
 bash
-python bioproject_main.py  # 假设主脚本文件名改为 bioproject_main.py（原代码文件名可修改）
+python bioproject_main.py  # 假设主脚本文件名改为 bioproject_main.py
 2. 核心操作流程
 输入序列：直接粘贴 FASTA 格式 / 纯序列，或通过「📥 导入 FASTA」加载文件
 选择工具：
@@ -100,3 +100,9 @@ F12：关于软件
 禁止二次分发或修改后重新打包
 📞 技术支持
 如有问题请联系：ding20110114@outlook.com
+
+
+
+
+注意说明：
+引物设计功能还未完善
